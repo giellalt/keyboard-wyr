@@ -7,6 +7,7 @@
 |**Standard**| black   | red          | blue                    | purple                   |
 |**Deadkey** | green   | orange       | pink                    | green                    |
 
+
 # Keyboard Layouts
 
 No keyboard layout defined yet!
